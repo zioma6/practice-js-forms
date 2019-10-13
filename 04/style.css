@@ -1,0 +1,19 @@
+:root {
+    --color-main: #bbb;  
+    --width-main: 200px;
+    --margin-main: 20px;
+}
+
+.box {
+    height: 100px;
+    margin: var(--margin-main);
+    width: var(--width-main);
+}
+
+.panel {
+    border: 1px solid var(--color-main);
+    margin: 10px;
+    padding: 10px;
+    width: var(--width-main);
+
+}
