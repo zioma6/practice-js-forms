@@ -4,7 +4,7 @@ Obsługa formularzy to jeden z najważniejszych umiejętności dla programisty J
 
 Zadania dostępne w tym repozytorium pozwolą zweryfikować Twoje umiejetności z tego zakresu. Ich poziom jest dostosowany pod osoby, które chcą znaleźć pierwszą pracę w zawodze programisty JS.
 
-Wykonanie każdego zadania bez większych problemów będzie oznaczać, że możesz przejść do następnych zagadnień.
+Wykonanie każdego zadania bez problemów będzie oznaczać, że możesz przejść do następnych zagadnień.
 
 > Jeśli potrzebujesz materiałów do zadań to znajdziesz je na stronie [devmentor.pl](https://devmentor.pl)
 
