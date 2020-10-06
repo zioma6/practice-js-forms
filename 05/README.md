@@ -6,7 +6,7 @@ Na podstawie kodu HTML musisz ocenić jaka walidacja powinna zostać obsłużona
 
 W przypadku błędów należy dodać stosowane komunikaty do elementu `.messages`.
 
-Gdy wszystko przebiega prawidłowo należy poinformować użytkownika, że dane zostały wysłane prawidłowo.
+Gdy wszystko przebiega prawidłowo, to należy poinformować użytkownika, że dane zostały wysłane prawidłowo.
 
 &nbsp;
 
