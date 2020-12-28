@@ -4,9 +4,9 @@ W pliku `index.html` został utworzony formularz.
 
 Twoim zadaniem jest implementacja rozwiązania, które pozwoli w momencie wysyłania danych zatrzymać domyślną akcję formularza i pobrać dane z jego pól.
 
-Gdy dane zostaną pobrane, należy utworzyć element `<li/>` z klasą `user-list__person` i dodać ten element do `<ul/>`.
+Gdy dane zostaną pobrane, należy utworzyć element `<li>` z klasą `user-list__person` i dodać ten element do `<ul>`.
 
-Utworzony element `</li>` powinien zawierać w sobie dane podane przez użytkownika.
+Utworzony element `<li>` powinien zawierać w sobie dane podane przez użytkownika.
 
 &nbsp;
 
