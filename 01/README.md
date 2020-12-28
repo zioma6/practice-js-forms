@@ -8,6 +8,8 @@ Gdy dane zostaną pobrane, należy utworzyć element `<li>` z klasą `user-list_
 
 Utworzony element `<li>` powinien zawierać w sobie dane podane przez użytkownika.
 
+> **Uwaga!** Jeśli po wysłaniu formularza otrzymasz informacje o błędzie [HTTP 405](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/405) oznacza to, że dane zostały wysłane, zamiast je obsłużyć przez JavaScript.
+
 &nbsp;
 
 > Jeśli nie posiadasz materiałów do tego zadania to znajdziesz je na stronie [devmentor.pl](https://devmentor.pl)
