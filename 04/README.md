@@ -2,7 +2,7 @@
 
 &nbsp;
 
-# `#04` JavaScript: Forms
+# `#04` JavaScript: Formularze
 
 
 W tym przypadku musisz wykorzystać input-y typu `color` oraz `range`, aby zarządzać cieniem dla naszego elementu o klasie `.box`.
