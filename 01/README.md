@@ -2,7 +2,7 @@
 
 &nbsp;
 
-# `#01` JavaScript: Forms
+# `#01` JavaScript: Formularze
 
 W pliku `index.html` został utworzony formularz.
 
