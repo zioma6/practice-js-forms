@@ -2,7 +2,7 @@
 
 &nbsp;
 
-# `#02` JavaScript: Forms
+# `#02` JavaScript: Formularze
 
 
 Tym razem nasz formularz to panel rejestracji do serwisu.
