@@ -2,7 +2,7 @@
 
 &nbsp;
 
-# `#05` JavaScript: Forms
+# `#05` JavaScript: Formularze
 
 
 Tym razem Twoim zadaniem jest obsługa formularza, w którym użytkownik wprowadza dane adresowe.
