@@ -3,7 +3,7 @@
 
 &nbsp;
 
-# JavaScript: Forms
+# JavaScript: Formularze
 
 Obsługa formularzy to jeden z najważniejszych umiejętności dla programisty JavaScript. Praktycznie na każdej stronie czy w aplikacji występuje tego typu element.
 
@@ -24,7 +24,7 @@ Wykonanie każdego zadania bez problemów będzie oznaczać, że możesz przejś
 
 &nbsp;
 
-:arrow_left: [*poprzedni zestaw zadań (**JavaScript: Events**)*](https://github.com/devmentor-pl/practice-js-events)
+:arrow_left: [*poprzedni zestaw zadań (**JavaScript: Zdarzenia**)*](https://github.com/devmentor-pl/practice-js-events)
 
 ## Jak prawidłowo wykonać zadania?
 
