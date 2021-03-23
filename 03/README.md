@@ -2,7 +2,7 @@
 
 &nbsp;
 
-# `#03` JavaScript: Forms
+# `#03` JavaScript: Formularze
 
 
 Naszym zadaniem będzie wyświetlenie w `.images-list` wszystkich wybranych (event `change`) w polu `<input>` plików graficznych (`.type.includes('image')`).
