@@ -13,6 +13,9 @@ W przypadku błędów należy dodać stosowane komunikaty do elementu `.messages
 
 Gdy wszystko przebiega prawidłowo, to należy poinformować użytkownika, że dane zostały wysłane prawidłowo.
 
+## Wyrażenia regularne (regex)
+
+W pliku `index.html` (atrybut `pattern`) pojawiaja się wyrażenie regularne. Jeśli chcesz zgłębić temat to zapraszam Cię do obejrzenia [nagrania na ten temat](https://www.youtube.com/watch?v=rhzKDrUiJVk).
 
 
 &nbsp;
