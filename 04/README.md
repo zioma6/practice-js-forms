@@ -5,13 +5,11 @@
 # `#04` JavaScript: Formularze
 
 
-W tym przypadku musisz wykorzystać input-y typu `color` oraz `range`, aby zarządzać cieniem dla naszego elementu o klasie `.box`.
+W tym zadaniu wykorzystaj inputy typu `color` oraz `range`, aby zarządzać cieniem elementu o klasie `.box`.
 
-W pliku `app.js` masz już przygotowaną funkcję, która ustawia odpowiednie style. Wystarczy, że przypiszesz odpowiednie nasłuchiwania dla pól formularza.
+W pliku `app.js` masz już przygotowaną funkcję, która ustawia potrzebne style. Wystarczy, że polom formularza przypiszesz nasłuchiwanie na odpowiednie zdarzenia.
 
-Zauważ, że `range` przyjmuje zakres od 0 do 100, natomiast w `rgba()` należy zdefiniować zakres dla przeźroczystości od 1 do 0.
-
-
+Zauważ, że nasz input typu `range` przyjmuje zakres od 0 do 100, natomiast w `rgba()` zakres dla przeźroczystości określa się w przedziale od 1 do 0.
 
 &nbsp;
 
