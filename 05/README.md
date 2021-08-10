@@ -7,15 +7,15 @@
 
 Tym razem Twoim zadaniem jest obsługa formularza, w którym użytkownik wprowadza dane adresowe.
 
-Na podstawie kodu HTML musisz ocenić jaka walidacja powinna zostać obsłużona z poziomu JS (pamiętaj o tagu `novalidate`).
+Na podstawie kodu HTML oceń, jaka walidacja powinna zostać wykonana na poziomie JS (pamiętaj o tagu `novalidate`).
 
-W przypadku błędów należy dodać stosowane komunikaty do elementu `.messages`.
+W przypadku błędów dodaj stosowane komunikaty do elementu `.messages`.
 
-Gdy wszystko przebiega prawidłowo, to należy poinformować użytkownika, że dane zostały wysłane prawidłowo.
+Gdy formularz zostanie wypełniony poprawnie, poinformuj użytkownika, że dane zostały wysłane prawidłowo.
 
 ## Wyrażenia regularne (regex)
 
-W pliku `index.html` (atrybut `pattern`) pojawiaja się wyrażenie regularne. Jeśli chcesz zgłębić temat to zapraszam Cię do obejrzenia [nagrania na ten temat](https://www.youtube.com/watch?v=rhzKDrUiJVk).
+W pliku `index.html` pojawia się wyrażenie regularne (atrybut `pattern` dla pola kodu pocztowego). Jeśli chcesz zgłębić temat wyrażeń regularnych, to zapraszam Cię do obejrzenia [tego nagrania](https://www.youtube.com/watch?v=rhzKDrUiJVk).
 
 
 &nbsp;
