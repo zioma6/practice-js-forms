@@ -1,16 +1,14 @@
-
 > :dart: *Chcę mieć absolutną pewność, że **darmowe materiały**, które publikuję, spełniają Twoje oczekiwania. Dlatego oferuję Ci ebooka o wartości 39 PLN: `Jak zostać programistą? SKUTECZNY PRZEWODNIK` w zamian za [wypełnienie ankiety](https://devmentor.pl/ankieta).*
 
 &nbsp;
 
 # JavaScript: Formularze
 
-Obsługa formularzy to jeden z najważniejszych umiejętności dla programisty JavaScript. Praktycznie na każdej stronie czy w aplikacji występuje tego typu element.
+Obsługa formularzy to jedna z najważniejszych umiejętności programisty JavaScript. Praktycznie na każdej stronie czy w aplikacji występuje tego typu element.
 
-Zadania dostępne w tym repozytorium pozwolą zweryfikować Twoje umiejetności z tego zakresu. Ich poziom jest dostosowany pod osoby, które chcą znaleźć pierwszą pracę w zawodze programisty JS.
+Dzięki zadaniom z tego repozytorium sprawdzisz swoją wiedzę na temat formularzy. Poziom zadań jest dostosowany pod osoby, które chcą znaleźć pierwszą pracę w zawodzie programisty JS.
 
-Wykonanie każdego zadania bez problemów będzie oznaczać, że możesz przejść do następnych zagadnień.
-
+Wykonanie każdego z nich bez problemów będzie oznaczać, że możesz przejść do następnych zagadnień.
 
 &nbsp;
 
