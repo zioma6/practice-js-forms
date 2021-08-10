@@ -7,15 +7,14 @@
 
 Tym razem nasz formularz to panel rejestracji do serwisu.
 
-Aby można było się zarejestrować, to należy wprowadzić poprawny adres email (sprawdzić, czy zawiera znak @ lub użyć odpowiedniego [wyrażenie regularnego](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)), podać dwa razy takie same hasła (dla pewności, że użytkownik nie pomylił się, wpisując hasło), które są dłuższe niż 6 znaków oraz zaakceptować regulamin (sprawdzić, czy jest `checked`).
+Aby można było się zarejestrować, należy:
+- wprowadzić poprawny adres e-mail (sprawdź, czy adres zawiera znak @ lub użyj odpowiedniego [wyrażenia regularnego](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)),
+- podać dwa razy takie samo hasło (dla pewności, że użytkownik się nie pomylił), które jest dłuższe niż 6 znaków,
+- zaakceptować regulamin (sprawdź, czy checkbox został zaznaczony: `checked`).
 
-Jeśli warunki zostały spełnione, to w konsoli powinien pojawić się napis `done`. W przeciwnym razie należy zaznaczyć na czerwono kolor fontu dla `<label>` błędnie wprowadzonych danych.
+Jeśli warunki zostały spełnione, wyświetl w konsoli napis `done`. Jeśli nie – zaznacz na czerwono kolor fontu dla `<label>` przy błędnie wprowadzonych danych.
 
-Do rozwiązania problemu oznaczania błędnych elementów można użyć tablicy, która będzie przechowywać dane tj. `const errors = []`. W momencie wystąpienia błędów dodajemy do tej tablicy selektor elementu, który błędnie jest wypełniony.
-
-Na samym końcu wykonujemy pętlę (`for` lub `forEach`), która zaznacza elementy z błędem.
-
-
+Do rozwiązania problemu oznaczania błędnych elementów możesz użyć tablicy, która będzie przechowywać dane, tj. `const errors = []`. W momencie wystąpienia błędu dodasz do tej tablicy selektor pola, które zostało błędnie wypełnione. Na samym końcu wykonasz pętlę (`for` lub `forEach`), która zaznaczy elementy z błędem.
 
 &nbsp;
 
