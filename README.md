@@ -14,7 +14,7 @@ Wykonanie każdego z nich bez problemów będzie oznaczać, że możesz przejś�
 
 ## Zadania
 
-> :fire: *Raz w tygodniu wykonuję **bezpłatny [Code Review](https://en.wikipedia.org/wiki/Code_review)** wybranej losowo osobie, która nie współpracuje ze mną w ramach [mentoringu](https://devmentor.pl/mentoring-javascript/). Zrób [Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) i weź udział w losowaniu. Życzę Ci efektywnej nauki programowania! Pozdrawiam, [Mateusz Bogolubow](https://www.linkedin.com/in/mateusz-bogolubow/).*
+> :fire: *Raz w tygodniu wykonuję **bezpłatny [Code Review](https://en.wikipedia.org/wiki/Code_review)** wybranej losowo osobie, która nie współpracuje ze mną w ramach [mentoringu](https://devmentor.pl/mentoring-javascript/). Zrób [Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) i weź udział w losowaniu. O wynikach losowania będę informował w piątkowym newsletterze, dlatego już teraz zachęcam Cię do [zapisania się na niego](http://devmentor.pl/newsletter). Życzę Ci efektywnej nauki programowania! Pozdrawiam, [Mateusz Bogolubow](https://www.linkedin.com/in/mateusz-bogolubow/).*
 
 &nbsp;
 
