@@ -1,4 +1,18 @@
-document.addEventListener('DOMContentLoaded', init);
+document.addEventListener('DOMContentLoaded', () => {
+    const boxElement = document.querySelector('.box');
+    const colorInput = document.querySelector('input[name="color"]');
+    const opacityInput = document.querySelector('input[name="opacity"]');
+
+    const updateShadow = () => {
+        const color = colorInput.value; // Pobierz kolor
+        const opacity = opacityInput.value / 100; // Przelicz przezroczystość na zakres 0-1
+        setBoxShadow(boxElement, color, opacity); // Zaktualizuj cień
+    };
+
+    // Nasłuchiwanie na zmiany w polach input
+    colorInput.addEventListener('input', updateShadow);
+    opacityInput.addEventListener('input', updateShadow);
+});
 
 function init() {
     const boxElement = document.querySelector('.box');
@@ -36,5 +50,4 @@ function getChannelColor(colorInHex, channelName) {
 
     return channelColorDec; 
 }
-
 
